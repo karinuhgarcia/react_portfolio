@@ -2,6 +2,7 @@ import './App.css'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import Aboutme from './components/Aboutme'
+import Contact from './components/Contact'
 
 function App() {
 
@@ -9,7 +10,7 @@ function App() {
     <div id='mainPage'>
       <Header />
       <Aboutme />
-      <div>HHEHEHEHEHE</div>
+      <Contact />
       <Footer />
     </div>
   )
