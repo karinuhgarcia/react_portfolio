@@ -1,0 +1,12 @@
+#resumeSections {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+
+ol {
+    display: flex;
+    flex-direction: column;
+    margin: 5px 40px;
+}
