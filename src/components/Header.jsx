@@ -6,10 +6,10 @@ export default function Header() {
         <header>
             <div>Header</div>
             <nav>
-                <a>About Me</a>
-                <a>Portfolio</a>
-                <a>Contact</a>
-                <a>Resume</a>
+                <a href='#aboutme'>About Me</a>
+                <a href='#portfolioSection'>Portfolio</a>
+                <a href="#contactSection">Contact</a>
+                <a href="#resumeSection">Resume</a>
             </nav>
         </header>
     )
