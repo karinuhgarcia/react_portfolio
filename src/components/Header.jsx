@@ -4,7 +4,7 @@ import './Header.css'
 export default function Header() {
     return (
         <header>
-            <div>Header</div>
+            <div id="titleName">KARINA GARCIA</div>
             <nav>
                 <a href='#aboutme'>About Me</a>
                 <a href='#portfolioSection'>Portfolio</a>

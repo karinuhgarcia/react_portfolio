@@ -4,8 +4,8 @@ import './Resume.css'
 export default function Resume() {
     return (
         <section id='resumeSection'>
-            <h2>Resume</h2>
-            <h4>Download <a href=''>Resume</a></h4>
+            <h2 id='resumeTitle'>Resume</h2>
+            <h4 id='download'>Download <a href=''>Resume</a></h4>
             <h3>Front End Proficiencies</h3>
             <ol>
                 <li>HTML</li>

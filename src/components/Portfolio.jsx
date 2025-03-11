@@ -35,7 +35,7 @@ export default function Portfolio() {
     ];
     return (
         <section id="portfolioSection">
-            <h2>Portfolio</h2>
+            <h2 className="porfolio">PORTFOLIO</h2>
             <div id='portfolioList'>
                 {projects.map((project, index) => (
                     <div className='projectContainer' key={index}>
