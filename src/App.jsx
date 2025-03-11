@@ -4,6 +4,7 @@ import Footer from './components/Footer'
 import Aboutme from './components/Aboutme'
 import Contact from './components/Contact'
 import Resume from './components/Resume'
+import Portfolio from './components/Portfolio'
 
 function App() {
 
@@ -11,8 +12,10 @@ function App() {
     <div id='mainPage'>
       <Header />
       <Aboutme />
+      <Portfolio />
       <Contact />
       <Resume />
+
       <Footer />
     </div>
   )
