@@ -27,10 +27,10 @@ export default function Portfolio() {
         deploylink: 'deploy.link'
     },
     {
-        title: 'project title',
-        githublink: 'link.link',
+        title: 'Weather Dashboard',
+        githublink: 'https://github.com/karinuhgarcia/weatherdashboard',
         image: "https://picsum.photos/200",
-        deploylink: 'deploy.link'
+        deploylink: 'https://weatherdashboard-5cat.onrender.com/'
     }
     ];
     return (
