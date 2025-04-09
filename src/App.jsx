@@ -1,7 +1,7 @@
 import './App.css'
 import Header from './components/Header'
 import Footer from './components/Footer'
-import Aboutme from './components/Aboutme'
+import Aboutme from './components/AboutMe'
 import Contact from './components/Contact'
 import Resume from './components/Resume'
 import Portfolio from './components/Portfolio'
