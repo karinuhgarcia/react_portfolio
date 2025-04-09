@@ -1,12 +1,54 @@
-# React + Vite
+# React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This portfolio showcases my web development projects built using React, providing potential employers and collaborators an overview of my skills, experience, and technical proficiency. Designed as a single-page application, this portfolio offers seamless navigation and highlights my personal information, featured projects, skills, and contact details.
 
-Currently, two official plugins are available:
+## Technologies Used
+- React
+- Vite
+- React Router DOM
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Single-Page Application:** Seamless navigation without page reloads.
+- **Project Showcase:** Displays six projects, each with screenshots, deployment links, and GitHub repository links.
+- **Interactive Navigation:** Highlights active sections clearly.
+- **Responsive Design:** Mobile-first design compatible with various devices and screen sizes.
+- **Contact Form:** Validates user input and provides immediate feedback.
+- **Resume Section:** Downloadable resume link and list of technical proficiencies.
 
-## Expanding the ESLint configuration
+## Portfolio Sections
+1. **About Me:** Includes a professional photo and brief personal bio.
+2. **Portfolio:** Contains details of six projects, complete with links and images.
+3. **Contact:** Interactive form with validation for user input.
+4. **Resume:** Links to download resume and lists front-end and back-end proficiencies.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+
+To install and run locally, follow these steps:
+
+```bash
+# Clone the repository
+git clone [your_repository_link]
+
+# Navigate into the repository directory
+cd [repository_name]
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
+# Deployment
+This application is deployed via Netlify:
+
+# Links
+Deployed Netlify: karina-garcia-portfolio.netlify.app
+GitHub: karinuhgarcia
+LinkedIn: in/-karinagarcia
+
+# License
+This project is licensed under the MIT License.

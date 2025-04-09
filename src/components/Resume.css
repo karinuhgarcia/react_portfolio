@@ -1,0 +1,59 @@
+#resumeTitle {
+    text-align: left;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 2rem;
+}
+
+#download {
+    text-align: left;
+    margin-top: 1rem;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#resumeSection {
+    text-align: center;
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.resumeLink {
+    font-size: 12px;
+    font-weight: bold;
+    color: #0077cc;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 1.5rem;
+}
+
+.resumeLink:hover {
+    text-decoration: underline;
+}
+
+ol {
+    margin-top: 1rem;
+    list-style-type: none;
+    text-align: left;
+    padding: 0 2rem;
+}
+
+ol li {
+    font-size: 1.1rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid #ddd;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ol li span {
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #666;
+}
